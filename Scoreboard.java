@@ -18,6 +18,6 @@ public class Scoreboard
 
     public void recordPlay(int score)
     {
-        
+        teamOneScore += score; 
     }
 }
